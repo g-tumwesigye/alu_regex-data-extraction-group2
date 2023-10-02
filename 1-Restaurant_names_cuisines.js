@@ -7,5 +7,6 @@ if (match) {
   const cuisine = match[2];
   console.log("Restaurant Name:", restaurantName);
   console.log("Cuisine:", cuisine);
+} else {
+  console.log("Ooops, let keep searching")
 }
-
