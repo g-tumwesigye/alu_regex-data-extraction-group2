@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 // Sample HTML content from a webpage
 const webpageContent = `
   <p>Contact us at support@example.com for assistance.</p>
