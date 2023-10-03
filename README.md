@@ -8,13 +8,21 @@ The backend engineering team has built an API that pulls in data from various so
 But the data is raw and unstructured. The task is writing scripts to extract and structure specific kinds of data from the raw API responses.
 
 Here are some of the data types the product team needs extracted:
+
 •	Restaurant names and cuisine types
+
 •	Ingredient lists from recipes
+
 •	RGB color values
+
 •	Social media usernames
+
 •	Product codes
+
 •	News Headlines
+
 •	Event dates and times
+
 •	Email addresses
 
 It is worth noting that Regular expressions will be our primary tool for data extraction.
