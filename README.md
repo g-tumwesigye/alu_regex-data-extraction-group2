@@ -1,7 +1,7 @@
 Regex - Onboarding Hackathon
 
 This is the REGEX-ONBOARDING HACKATHON assignment for group 2.
-This project is designed to help us learn data extraction using regular expressions in JS.
+This project is designed to help us learn data extraction using regular expressions.
 
 It has to do with the building of a new social media app. The app aggregates data from different sources and displays it to users in a personalized feed.
 The backend engineering team has built an API that pulls in data from various sources like news outlets, social networks, blogs etc.
