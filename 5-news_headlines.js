@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 const headlineRegex = /Headline: (.+?) - (.+)/;
 const apiResponse6 = "Headline: Breaking News - Major Event";
 const match6 = apiResponse6.match(headlineRegex);
