@@ -1,3 +1,5 @@
+!#/usr/bin/node
+
 const productCodeRegex = /([A-Z]{3}\d{3})/;
 const apiResponse5 = "Product Code: XYZ789";
 const match5 = apiResponse5.match(productCodeRegex);
